@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="cucumber.Options.TestRunner" time="5.358" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="cucumber.Options.TestRunner" time="6.27" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="16"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/16.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/wangyusen/eclipse-workspace/APIFamework/target/surefire/surefirebooter10961404539923068274.jar /Users/wangyusen/eclipse-workspace/APIFamework/target/surefire 2022-05-31T14-26-58_039-jvmRun1 surefire16457916159580920866tmp surefire_03619541691133089435tmp"/>
+    <property name="sun.java.command" value="/Users/wangyusen/eclipse-workspace/APIFamework/target/surefire/surefirebooter9182904670886147775.jar /Users/wangyusen/eclipse-workspace/APIFamework/target/surefire 2022-06-10T13-03-19_488-jvmRun1 surefire11397499736821852204tmp surefire_04691172096819816001tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/wangyusen/eclipse-workspace/APIFamework/target/test-classes:/Users/wangyusen/eclipse-workspace/APIFamework/target/classes:/Users/wangyusen/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/wangyusen/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-java/7.2.3/cucumber-java-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-core/7.2.3/cucumber-core-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-gherkin/7.2.3/cucumber-gherkin-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.2.3/cucumber-gherkin-messages-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/messages/17.1.1/messages-17.1.1.jar:/Users/wangyusen/.m2/repository/io/cucumber/tag-expressions/4.1.0/tag-expressions-4.1.0.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-expressions/15.0.1/cucumber-expressions-15.0.1.jar:/Users/wangyusen/.m2/repository/io/cucumber/datatable/7.2.3/datatable-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-plugin/7.2.3/cucumber-plugin-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/docstring/7.2.3/docstring-7.2.3.jar:/Users/wangyusen/.m2/repository/io/cucumber/html-formatter/17.0.0/html-formatter-17.0.0.jar:/Users/wangyusen/.m2/repository/io/cucumber/ci-environment/8.1.0/ci-environment-8.1.0.jar:/Users/wangyusen/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/wangyusen/.m2/repository/io/cucumber/cucumber-junit/7.2.3/cucumber-junit-7.2.3.jar:/Users/wangyusen/.m2/repository/io/rest-assured/rest-assured/4.5.1/rest-assured-4.5.1.jar:/Users/wangyusen/.m2/repository/org/codehaus/groovy/groovy/3.0.9/groovy-3.0.9.jar:/Users/wangyusen/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.9/groovy-xml-3.0.9.jar:/Users/wangyusen/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/wangyusen/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/wangyusen/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/wangyusen/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/wangyusen/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/wangyusen/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/wangyusen/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/wangyusen/.m2/repository/io/rest-assured/json-path/4.5.1/json-path-4.5.1.jar:/Users/wangyusen/.m2/repository/org/codehaus/groovy/groovy-json/3.0.9/groovy-json-3.0.9.jar:/Users/wangyusen/.m2/repository/io/rest-assured/rest-assured-common/4.5.1/rest-assured-common-4.5.1.jar:/Users/wangyusen/.m2/repository/io/rest-assured/xml-path/4.5.1/xml-path-4.5.1.jar:/Users/wangyusen/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/wangyusen/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.2.2/jackson-databind-2.13.2.2.jar:/Users/wangyusen/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.2/jackson-annotations-2.13.2.jar:/Users/wangyusen/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.2/jackson-core-2.13.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/wangyusen/eclipse-workspace/APIFamework/target/surefire/surefirebooter10961404539923068274.jar"/>
+    <property name="surefire.real.class.path" value="/Users/wangyusen/eclipse-workspace/APIFamework/target/surefire/surefirebooter9182904670886147775.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="16.0.2+0"/>
     <property name="user.name" value="wangyusen"/>
@@ -51,7 +51,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="60.0"/>
   </properties>
-  <testcase name="Verify if place is being Succesfully added using AddPlaceAPI #1" classname="Validaing Place API&apos;s" time="3.116"/>
-  <testcase name="Verify if place is being Succesfully added using AddPlaceAPI #2" classname="Validaing Place API&apos;s" time="1.092"/>
-  <testcase name="Verify if delete functionality is working" classname="Validaing Place API&apos;s" time="0.754"/>
+  <testcase name="Verify if place is being Succesfully added using AddPlaceAPI #1" classname="Validaing Place API&apos;s" time="3.996"/>
+  <testcase name="Verify if place is being Succesfully added using AddPlaceAPI #2" classname="Validaing Place API&apos;s" time="1.023"/>
+  <testcase name="Verify if delete functionality is working" classname="Validaing Place API&apos;s" time="0.636"/>
 </testsuite>
