@@ -47,7 +47,7 @@ public class StepDefinition extends Utils{
 	}
 	@Then("API call is success with status code {int}")
 	public void api_call_is_success_with_status_code(Integer int1) {
-		assertEquals(response.getStatusCode(), 200);
+		assertEquals(response.getStatusCode(), 300);
 		
 	}
 	@Then("{string} in response body is {string}")
